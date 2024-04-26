@@ -39,7 +39,8 @@ params:
   systems:
     - name: Main Site
       category: Site
-      description: https://chottiwatt.in.th/
+      description: ""
+      partial: https://chottiwatt.in.th/
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -59,8 +60,8 @@ params:
     - name: Uncategorized
       untitled: true
     - name: Site
-      closed: true
-      untitled: true
+      closed: false
+      untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
