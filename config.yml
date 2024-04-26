@@ -55,9 +55,9 @@ params:
       category: Core Infrastructure
     - name: Amazon AWS
       category: Core Infrastructure
-    - name: Netlify
+    - name: Netlify Deployment
       category: Core Infrastructure
-    - name: Render
+    - name: Render Deployment
       category: Core Infrastructure
     - name: ChatGPT API Site
       category: Services
