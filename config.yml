@@ -48,9 +48,7 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Test
-      link: https://chottiwatt.in.th
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
@@ -60,8 +58,6 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Uncategorized
-      untitled: true
     - name: Site
       closed: false
       untitled: false
