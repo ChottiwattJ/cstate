@@ -40,7 +40,7 @@ params:
     - name: Main Site
       category: Site
       description: ""
-      partial: https://chottiwatt.in.th/
+      partial: ""
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
