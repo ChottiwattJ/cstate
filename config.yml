@@ -64,7 +64,7 @@ params:
     - name: OpenVPN CloudConnexa
       category: Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#FFFFFF"
   enableLastMod: true
   headerTextColor: black
   logo: logo.png
