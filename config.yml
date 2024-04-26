@@ -38,9 +38,31 @@ params:
   down: "#e60000"
   systems:
     - name: Main Site
-      category: Site
+      category: Website
       description: ""
       partial: ""
+    - name: Resume Site
+      category: Website
+    - name: CenAccess Site
+      category: Website
+    - name: Mail Server
+      category: Core Infrastructure
+    - name: Cloudflare DNS
+      category: Core Infrastructure
+    - name: Cloudflare Zerotrust
+      category: Core Infrastructure
+    - name: Microsoft Azure
+      category: Core Infrastructure
+    - name: Amazon AWS
+      category: Core Infrastructure
+    - name: Netlify
+      category: Core Infrastructure
+    - name: Render
+      category: Core Infrastructure
+    - name: ChatGPT API Site
+      category: Services
+    - name: OpenVPN CloudConnexa
+      category: Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -58,9 +80,11 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Site
+    - name: Website
       closed: false
       untitled: false
+    - name: Core Infrastructure
+    - name: Services
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
