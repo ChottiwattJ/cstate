@@ -83,8 +83,8 @@ params:
     - name: Website
       closed: false
       untitled: false
-    - name: Core Infrastructure
     - name: Services
+    - name: Core Infrastructure
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
